@@ -39,7 +39,7 @@ CREATE TABLE `notes` (
 --
 
 INSERT INTO `notes` (`id`, `title`, `datetime`, `note`) VALUES
-(2, 'Belajar Code', '2024-06-14 15:40:00', 'Belajar code bareng saya');
+(2, 'Bhaskara', '2024-06-20 16:40:00', 'massive');
 
 --
 -- Indexes for dumped tables
